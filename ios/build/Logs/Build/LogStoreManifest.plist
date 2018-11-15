@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>E9A5010E-10F6-4AFF-B551-C365577D4AA7</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E9A5010E-10F6-4AFF-B551-C365577D4AA7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>EventbriteAPI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EventbriteAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project EventbriteAPI with scheme EventbriteAPI and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>564014515.50914896</real>
+			<key>timeStoppedRecording</key>
+			<real>564014533.93852699</real>
+			<key>title</key>
+			<string>Building project EventbriteAPI with scheme EventbriteAPI and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>E9A5010E-10F6-4AFF-B551-C365577D4AA7</string>
+		</dict>
+		<key>FCBB241B-EC57-4493-BDB2-27C670DE1ACF</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FCBB241B-EC57-4493-BDB2-27C670DE1ACF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>EventbriteAPI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EventbriteAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project EventbriteAPI with scheme EventbriteAPI and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>563836581.07114398</real>
+			<key>timeStoppedRecording</key>
+			<real>563836597.19918001</real>
+			<key>title</key>
+			<string>Building project EventbriteAPI with scheme EventbriteAPI and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>FCBB241B-EC57-4493-BDB2-27C670DE1ACF</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
